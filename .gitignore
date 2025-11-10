@@ -33,3 +33,4 @@ go.work.sum
 # .vscode/
 
 pdas-dev.pem
+connect-vm.sh
