@@ -34,3 +34,8 @@ go.work.sum
 
 pdas-dev.pem
 connect-vm.sh
+monitordocker.sh
+gRPC-*.txt
+network
+wallet
+client
